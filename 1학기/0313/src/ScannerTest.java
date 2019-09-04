@@ -4,7 +4,7 @@ public class ScannerTest {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		System.out.print("5,6,9,1,13ÀÇ ¼ıÀÚ Áß¿¡¼­ ÀÔ·ÂÇÏ¼¼¿ä:");
+		System.out.print("5,6,9,1,13ì˜ ìˆ«ì ì¤‘ì—ì„œ ì…ë ¥í•˜ì„¸ìš”:");
 		int member;
 
 		/*while (true) {
@@ -18,9 +18,9 @@ public class ScannerTest {
 			} else if (member == 1) {
 				System.out.println("IU");
 			} else if (member == 13) {
-				System.out.println("¼¼ºìÆ¾");
+				System.out.println("ì„¸ë¸í‹´");
 			} else {
-				System.out.println("Å»Ãâ");
+				System.out.println("íƒˆì¶œ");
 			}
 			break;
 		}*/
@@ -36,9 +36,9 @@ public class ScannerTest {
 			} else if (member == 1) {
 				System.out.println("IU");
 			} else if (member == 13) {
-				System.out.println("¼¼ºìÆ¾");
+				System.out.println("ì„¸ë¸í‹´");
 			} else {
-				System.out.println("Å»Ãâ");
+				System.out.println("íƒˆì¶œ");
 			}
 		}
 		

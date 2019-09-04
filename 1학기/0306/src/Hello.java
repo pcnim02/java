@@ -2,13 +2,13 @@
 public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
-		System.out.println("1955/JamesArthur Gosling,ºô°ÔÀÌÃ÷");	
+		System.out.println("1955/JamesArthur Gosling,ë¹Œê²Œì´ì¸ ");	
 		System.out.println(~5);    //-6
 		System.out.println(5<<2);    //20
 		System.out.println(5>>2);   //1
 		System.out.println(5>>>2);   //1
 	    System.out.println(-5>>2);   //-2
-	    System.out.println(-5>>>2);   //(¾Õ¿¡ 0À¸·Î µÇ´Ï±î ¾ç¼ö°¡ µÇ¼­ Å«¼ö°¡ ³ª¿È)1073741822
+	    System.out.println(-5>>>2);   //(ì•ì— 0ìœ¼ë¡œ ë˜ë‹ˆê¹Œ ì–‘ìˆ˜ê°€ ë˜ì„œ í°ìˆ˜ê°€ ë‚˜ì˜´)1073741822
 	    System.out.println("--------------------------");
 	    System.out.println(false||false);
 	    System.out.println(false||true);
